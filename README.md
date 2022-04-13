@@ -16,7 +16,11 @@ This process was done taking into account that ViReMa-a gives error when it find
 
 ## To explore each HTML report...
 
-you can download the \*.html and open in your usual browser.
+you can download the \*.html and open in your usual browser or 
+
+link in the sample of interest:
+
+
 
 <!-- REFERENCE -->
 ### Reference
