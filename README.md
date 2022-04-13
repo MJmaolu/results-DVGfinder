@@ -16,12 +16,9 @@ This process was done taking into account that ViReMa-a gives error when it find
 
 ## To explore each HTML report...
 
-you can download the \*.html and open in your usual browser or 
+you can download the /${sample}\_report.html and open in your usual browser or link in the sample of interest:
 
-link in the sample of interest:
-
-
-
+[SRR8719995](http://147.156.206.144/appweb/SRR8719995_report.html);  [SRR8719996](http://147.156.206.144/appweb/SRR8719996_report.html); [SRR8719997](http://147.156.206.144/appweb/SRR8719997_report.html); [SRR8719998](http://147.156.206.144/appweb/SRR8719998_report.html)
 <!-- REFERENCE -->
 ### Reference
 
