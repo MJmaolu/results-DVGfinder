@@ -12,9 +12,11 @@ In each directory can find the DVGfinder output for the sample in question.
 
 The only preprocess step consisted on interleave each pair of fastQ files in a single fastQ file per sample. 
 
-This process was done taking into account that ViReMa-a 
+This process was done taking into account that ViReMa-a gives error when it finds readings with repeated names. For avoid that we add first "/1" or "/2" to each name read and then we made the interleaved with reformat.sh ([from BBTools](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/)).
 
+## To explore each HTML report...
 
+you can download the \*.html and open in your usual browser.
 
 <!-- REFERENCE -->
 ### Reference
